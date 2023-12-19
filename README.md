@@ -55,3 +55,23 @@ This is a leetcode studyplan
 53.  Guess Number Higher or Lower
 54.  Successful Pairs of Spells and Potions
 55.  Find Peak Element
+56.  Koko Eating Bananas
+57.  Letter Combinations of a Phone Number
+58.  Combination Sum 3
+59.  N-th Tribonacci Number
+60.  Min cost Climbing Stairs
+61.  House Robber
+62.  Domino and Tromino Tiling
+63.  Unique Paths
+64.  Longest Common Subsequence
+65.  Best Time to Buy and Sell Stock with Transaction Free
+66.  Edit Distance
+67.  Counting bits
+68.  Single Number
+69.  Minimum Flips to make a OR b Equal to c
+70.  Implement Trie
+71.  Search Suggestion System
+72.  Non Overlaping Intervals
+73.  Minimum Number of Arrows to burst Ballons
+74.  Daily Temperatures
+75.  Online Stock Span
