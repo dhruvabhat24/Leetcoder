@@ -30,3 +30,28 @@ This is a leetcode studyplan
 28.  Dota2 Senate
 29.  Delete the Middle Node of a Linked List
 30.  Odd Even Linked List
+31.  Reverse Linked List
+32.  Maximum Twin Sum of a Linked List
+33.  Maximum Depth of Binary Tree
+34.  Leaf Similar Tree
+35.  Count Good Nodes in Binary Tree
+36.  Path Sum 3
+37.  Longest ZigZag path in a Binary Tree
+38.  Lowest Common Ancestor of a Binary Tree
+39.  Binary tree Right Side view
+40.  Maximum Level Sum of a Binary Tree
+41.  Search in a Binary Search tree
+42.  Delete Node in a BST
+43.  Keys and Rooms
+44.  Number of Provinces
+45.  Reorder Routes to Make All Paths Lead to the city Zero
+46.  Evaluate Division
+47.  Nearest Exit from Entrace in Maze
+48.  Rotting Oranges
+49.  Kth Largest Element in an Array
+50.  Smallest Number in Infinite Set
+51.  Maximum Subsequence Score
+52.  Total Cost to Hire k Workers
+53.  Guess Number Higher or Lower
+54.  Successful Pairs of Spells and Potions
+55.  Find Peak Element
